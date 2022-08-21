@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    font-family: 'Inter';
+}
+
+.hero {
+    background: #6943fe;
+    padding: 1px;
+}
+
+#title {
+    font-weight: 800;
+    font-size: 28px;
+    margin: 35px 0px;
+}
+
+#convert-input {
+    display: block;
+    margin: 6px auto;
+    background: #6943fe;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    width: 100px;
+    height: 60px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 58px;
+    font-family: 'Inter';
+    color: white;
+    padding: 8px;
+    text-align: center;
+}
+
+#convert-btn {
+    border: none;
+    padding: 10px 30px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    margin: 13px 0 25px;
+}
+
+.main {
+    background: #1F2937;
+    padding: 1px;
+}
+
+.section {
+    background: #273549;
+    padding: 1px;
+    margin: 24px;
+    border-radius: 5px 0px 0px 0px;
+}
+
+.heading {
+    color: #CCC1FF;
+    margin: 25px 0px 0px;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 15px 0px 20px;
+}
+
